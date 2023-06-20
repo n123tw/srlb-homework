@@ -16,6 +16,7 @@ nano /etc/zabbix/nginx.conf
 systemctl restart zabbix-server zabbix-agent nginx php7.4-fpm
 systemctl enable zabbix-server zabbix-agent nginx php7.4-fpm
 ```
+
 ## Задание 2
 ![Скриншот-2](https://github.com/n123tw/srlb-homework/blob/main/9-02/img/2.jpg)
 ![Скриншот-3](https://github.com/n123tw/srlb-homework/blob/main/9-02/img/3.jpg)
@@ -31,3 +32,6 @@ systemctl enable zabbix-agent2
 nano /etc/zabbix/zabbix_agent2.conf
 systemctl restart zabbix-agent2
 ```
+
+## Задание 3
+![Скриншот-5](https://github.com/n123tw/srlb-homework/blob/main/9-02/img/5.jpg)
