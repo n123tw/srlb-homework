@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "10.1 Keepalived/vrrp" Лазарев Даниил
 ## Задание 1
-# Master-node:
+### Master-node:
 ```
 vrrp_instance main {
 state MASTER
@@ -20,9 +20,9 @@ virtual_ipaddress{
 }
 }
 ```
-![Скриншот-1](https://github.com/n123tw/srlb-homework/blob/main/9-03/img/1.jpg)
+![Скриншот-1](https://github.com/n123tw/srlb-homework/blob/main/10-1/img/1.jpg)
 
-# Backup-node:
+### Backup-node:
 ```
 vrrp_instance main {
 state BACKUP
@@ -42,4 +42,4 @@ virtual_ipaddress{
 }
 }
 ```
-![Скриншот-2](https://github.com/n123tw/srlb-homework/blob/main/9-03/img/2.jpg)
+![Скриншот-2](https://github.com/n123tw/srlb-homework/blob/main/10-1/img/2.jpg)
