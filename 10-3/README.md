@@ -27,6 +27,6 @@ Corosync — программный продукт, позволяющий ре�
 
 ### Задание 3.
 
-[Скриншот-1](https://github.com/n123tw/srlb-homework/blob/main/10-3/img/1.jpg)
+![Скриншот-1](https://github.com/n123tw/srlb-homework/blob/main/10-3/img/1.jpg)
 
-[Скриншот-2](https://github.com/n123tw/srlb-homework/blob/main/10-3/img/2.jpg)
+![Скриншот-2](https://github.com/n123tw/srlb-homework/blob/main/10-3/img/2.jpg)
